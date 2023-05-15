@@ -35,7 +35,7 @@ While this project primarily serves as a personal showcase, I'm always open to n
 
 ## License
 
-This project is licensed under the MIT License. Please see the [LICENSE.md](LICENSE.md) file for more details.
+This project is licensed under the MIT License. Please see the [LICENSE]([License](LICENSE)) file for more details.
 
 ## Contact
 
